@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Arthur Cechinel Nunes
 
-**`Desenvolvedora Javascript`**
+**`Desenvolvedor Javascript`**
 
 Me chamo Arthur Cechinel Nunes, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas pelo SESI SENAI. Busco aprimorar meus conhecimentos e colocá-los em prática na área da tecnologia, explorando novas oportunidades para crescer profissionalmente.
 
