@@ -6,7 +6,13 @@ Me chamo Arthur Cechinel Nunes, estou cursando Tecnologia em Análise e Desenvol
 
 
 ---
-
+<p align="left">
+    <a href="https://www.linkedin.com/in/arthur-cechinel-nunes/">
+        <img 
+            alt="LinkedIn" 
+            title="De uma olhada no meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/linkedin/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
 ### 🤖 Linguagens e Tecnologias
 
 <img 
