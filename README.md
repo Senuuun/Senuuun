@@ -4,15 +4,18 @@
 
 Me chamo Arthur Cechinel Nunes, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas pelo SESI SENAI. Busco aprimorar meus conhecimentos e colocá-los em prática na área da tecnologia, explorando novas oportunidades para crescer profissionalmente.
 
-
----
 <p align="left">
-    <a href="https://www.linkedin.com/in/arthur-cechinel-nunes/">
+    <a href="https://www.linkedin.com/in/arthur-cechinel-nunes/" target="_blank">
         <img 
             alt="LinkedIn" 
-            title="De uma olhada no meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/linkedin/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
+    </a>
+</p>
+
+---
+    
 ### 🤖 Linguagens e Tecnologias
 
 <img 
