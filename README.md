@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Arthur Cechinel Nunes
+# 👨🏻‍💻 Arthur Cechinel Nunes
 
 **`Desenvolvedora Javascript`**
 
