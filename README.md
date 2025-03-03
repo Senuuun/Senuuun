@@ -80,13 +80,4 @@ Me chamo Arthur Cechinel Nunes, estou cursando Tecnologia em Análise e Desenvol
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senuuun&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
 </p>
